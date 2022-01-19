@@ -19,7 +19,8 @@ This folder contains codes and the handwritten answers as a pdf.
 - E10.4, E10.14
 
 ## Additional Notes
-These solutions are all by me and they are as handwritten pdf. If you couldn't read or any other problems you had while reviewing these solutions just create an issue, I will respond as soon as I could.
+These solutions are all by me and they are as handwritten pdf. If you couldn't read or any other problems you had while reviewing these solutions just create an issue, I will respond as soon as I could. <br>
+Also Discussions is enabled in this repository for you to share more of your ideas and questions.
 
 ## Collaboration
 There are multiple ways you can improve these answers. You can fork this repository and add your answers to other exercises or type the answers in this repository to imporove the quality.
